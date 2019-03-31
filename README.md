@@ -17,6 +17,6 @@ One is given that a parent nuclide has a half life of 5 days and a daughter nucl
 ## Coding in Python
 
 The methods by which this problem was initially solved using Python can be seen in the jupyter notebook that contains the [Python portion of the exercise.](python_demo.ipynb) The final result is the following plot:
-![Python plot of populations](images/ipyplot.png)
+![Python plot of populations](images/pyplot.png)
 
 
